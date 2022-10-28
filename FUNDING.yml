@@ -1,2 +1,5 @@
-paypal: paymentech
+# repo:     aruack/aruack
+# filename: FUNDING.YML
+
+github: aruack
 custom: ["https://www.paypal.me/paymentech"]
